@@ -151,7 +151,7 @@ Don't forget to give the project a star! Thanks again!
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+4. Push to the Branch (`git push github && git push gitlab`)
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -218,7 +218,7 @@ to kick things off!
 
 [linkedin-url]: https://linkedin.com/in/othneildrew
 
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: logo.png
 
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 
