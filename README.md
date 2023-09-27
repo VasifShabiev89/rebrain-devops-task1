@@ -250,4 +250,9 @@ to kick things off!
 
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 
-[JQuery-url]: https://jquery.com 
+[JQuery-url]: https://jquery.com
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
